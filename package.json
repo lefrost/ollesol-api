@@ -1,0 +1,30 @@
+{
+  "name": "olleatlas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ollefrost/olleatlas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ollefrost/olleatlas/issues"
+  },
+  "homepage": "https://github.com/ollefrost/olleatlas#readme",
+  "dependencies": {
+    "@audius/fetch-nft": "^0.1.6",
+    "@solana/spl-token": "^0.1.8",
+    "@solana/web3.js": "^1.31.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "16.4.2"
+  }
+}
